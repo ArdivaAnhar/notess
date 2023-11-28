@@ -85,7 +85,7 @@ body {
 .add-notes {
   position: fixed;
   right: 6%;
-  bottom: 15%;
+  bottom: 14%;
   border-radius: 50%;
   background-color: #514c4c;
 }
@@ -124,7 +124,7 @@ body {
   .add-notes {
     position: fixed;
     right: 6%;
-    bottom: 32%;
+    bottom: 30%;
     border-radius: 50%;
     background-color: #514c4c;
   }
