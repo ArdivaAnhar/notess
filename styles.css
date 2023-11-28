@@ -83,7 +83,7 @@ body {
 }
 
 .add-notes {
-  position: absolute;
+  position: fixed;
   right: 6%;
   bottom: 15%;
   border-radius: 50%;
