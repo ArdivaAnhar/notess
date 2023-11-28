@@ -119,3 +119,23 @@ body {
 .catatan span {
   font-size: 25px;
 }
+
+@media (min-width: 700px) {
+  .add-notes {
+    position: fixed;
+    right: 6%;
+    bottom: 32%;
+    border-radius: 50%;
+    background-color: #514c4c;
+  }
+}
+
+@media (min-width: 1000px) {
+  .add-notes {
+    position: fixed;
+    right: 6%;
+    bottom: 16%;
+    border-radius: 50%;
+    background-color: #514c4c;
+  }
+}
